@@ -1,5 +1,4 @@
 # Modelo para previsão de evasores de uma empresa de telecom
-[![NPM](http://images.shields.io/npm/l/react)](https://github.com/thiago-vale/Data-Science/blob/main/LICENSE)
 
 ![Telefonia](https://user-images.githubusercontent.com/77752211/129768384-482d6e30-c0a5-4d45-b4a1-584e8243d3eb.jpg)
 
