@@ -8,10 +8,12 @@
 No ultmo mês essa empresa de telecomunicações perdeu clientes no seu ultimo mês
 No metodo atual o mesmos não estão conseguindo reter os clientes
 
+##
 ## Bibliotecas Utilizadas no Modelo
 
 ![Bibliotecas utilizadas](https://user-images.githubusercontent.com/77752211/129759007-b944190a-2331-432b-b991-79a0bef71b62.png)
 
+##
 # Extração dos dados
 
 Os dados do Projeto podem ser encontrados no seguinte repositorio: https://www.kaggle.com/blastchar/telco-customer-churn
@@ -20,6 +22,7 @@ O mesmos estão presente neste repositorio e podem ser importados pelo Link http
 
 ##
 ## Tratamento e Limpeza dos dados
+
 
 ![DF-info](https://user-images.githubusercontent.com/77752211/129761563-7b5ea677-5224-41de-b7f8-96b8a39d753f.png)
 
@@ -44,32 +47,32 @@ No caso desse data set nenhuma das duas formas de tratar esses dados apresentara
 
 ##
 ## Analise Exploratoria dos dados
-##
+
 
 ##
 ## Preparação dos dados
-##
+
 
 ##
 ## Modelagem dos dados
-##
+
 
 ##
 ## Validação Cruzada
-##
+
 
 ##
 ## Otimização do modelo
-##
+
 
 ##
 ## Medição
-##
+
 
 ##
 ## Pontos de Melhoria
-##
+
 
 ##
 ## Conclusão
-##
+
