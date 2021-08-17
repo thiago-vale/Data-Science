@@ -1,5 +1,4 @@
 # Modelo para previsão de evasores de uma empresa de telecom
-![GitHub top language](https://img.shields.io/github/languages/top/thiago-vale/Data-Science)
 
 ![Telefonia](https://user-images.githubusercontent.com/77752211/129768384-482d6e30-c0a5-4d45-b4a1-584e8243d3eb.jpg)
 
