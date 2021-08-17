@@ -2,6 +2,7 @@
 
 ![Telefonia](https://user-images.githubusercontent.com/77752211/129768384-482d6e30-c0a5-4d45-b4a1-584e8243d3eb.jpg)
 
+##
 ## Problema de Negocio
 
 No ultmo mês essa empresa de telecomunicações perdeu clientes no seu ultimo mês
@@ -17,6 +18,7 @@ Os dados do Projeto podem ser encontrados no seguinte repositorio: https://www.k
 
 O mesmos estão presente neste repositorio e podem ser importados pelo Link https://raw.githubusercontent.com/thiago-vale/Data-Science/main/previs%C3%A3o-de-churn/data/Churn.csv
 
+##
 ## Tratamento e Limpeza dos dados
 
 ![DF-info](https://user-images.githubusercontent.com/77752211/129761563-7b5ea677-5224-41de-b7f8-96b8a39d753f.png)
@@ -40,20 +42,34 @@ Busquei tratar os dados de forma que não interferiessem nas demais colunas, tes
 
 No caso desse data set nenhuma das duas formas de tratar esses dados apresentaram diferença significativa, porém sabemos que na realidade um cliente pode optar por mudar de plano no meio do caminho ou até mesmo por adicionar algum serviço, a empresa pode oferecer alguma promoção e por isso nesse caso em que os clientes que apresentaram dados nulos em Total Charges não tinham nem um mês completo ainda o primeiro metodo é o mais confiavel.
 
+##
 ## Analise Exploratoria dos dados
+##
 
+##
 ## Preparação dos dados
+##
 
-
+##
 ## Modelagem dos dados
+##
 
-
+##
 ## Validação Cruzada
+##
 
+##
 ## Otimização do modelo
+##
 
+##
 ## Medição
+##
 
+##
 ## Pontos de Melhoria
+##
 
+##
 ## Conclusão
+##
