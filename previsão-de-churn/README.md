@@ -1,4 +1,5 @@
-# Modelo para previsão de evasores
+# Modelo para previsão de evasores de uma empresa de telecom
+![Telefonia](https://user-images.githubusercontent.com/77752211/129768384-482d6e30-c0a5-4d45-b4a1-584e8243d3eb.jpg)
 
 ## Problema de Negocio
 
