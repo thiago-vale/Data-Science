@@ -52,4 +52,6 @@ No caso desse data set nenhuma das duas formas de tratar esses dados apresentara
 
 ## Medição
 
+## Pontos de Melhoria
+
 ## Conclusão
