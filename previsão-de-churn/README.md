@@ -28,7 +28,13 @@ encontrei 11 dados nulos no propria coluna em nada nas outras
 
 ![Tratando-nulos](https://user-images.githubusercontent.com/77752211/129762843-54335fac-caea-44ac-9213-a9ea1a58abc4.png)
 
-Busquei tratar os dados de forma que não interferiessem nas demais colunas
+![Tratando-nulos-alnternativa](https://user-images.githubusercontent.com/77752211/129763599-be13100b-1eb3-43c5-8a2c-bd1048c29d35.png)
+
+Busquei tratar os dados de forma que não interferiessem nas demais colunas, testei duas formas
+
+![Antes de tratado](https://user-images.githubusercontent.com/77752211/129763459-1e24a5cc-a83a-4f0c-82ec-bcc0094c90da.png)
+![Depois de tratado](https://user-images.githubusercontent.com/77752211/129763488-99f75f99-88df-441c-9cbd-4749067a919d.png)
+![Depois de tratado alternativa](https://user-images.githubusercontent.com/77752211/129764194-48685ff5-d16b-4a17-8e63-7df5f9e15bae.png)
 
 
 ## Analise Exploratoria dos dados
