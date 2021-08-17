@@ -1,4 +1,4 @@
-# Data-Science
+# Thiago Vale
 ![GitHub top language](https://img.shields.io/github/languages/top/thiago-vale/Data-Science)
 <div>
   <a href="https://github.com/thiago-vale">
