@@ -9,5 +9,5 @@ No metodo atual o mesmos não estão conseguindo reter os clientes
 
 ## 
 
-https://github.com/thiago-vale/Data-Science/issues/1#issue-972834185
+![Bibliotecas utilizadas](https://user-images.githubusercontent.com/77752211/129759007-b944190a-2331-432b-b991-79a0bef71b62.png)
 
