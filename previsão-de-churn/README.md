@@ -101,12 +101,17 @@ Clientes que não tem fidelidade e consomem mais produtos como internet de fibra
 
 Algumas Hipoteses
 
-Valor dos planos.
-Valor dos pacotes adicionais.
-Quaidade dos serviços prestados.
-Problemas tecnicos recorrentes.
-Algum tipo de serviço com problema.
-Algum problema com a forma de pagamento.
+* Valor dos planos mensais muito alto.
+
+* Valor dos pacotes adicionais.
+
+* Quaidade dos serviços prestados.
+
+* Problemas tecnicos recorrentes.
+
+* Algum tipo de serviço com problema.
+
+* Algum problema com a forma de pagamento.
 
 
 ##
