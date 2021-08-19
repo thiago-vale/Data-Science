@@ -119,9 +119,27 @@ Algumas Hipoteses
 ##
 ## Preparação dos dados
 
+O primeiro ponto fazer os dados que diziam não tenho determinado tipo de serviço virarem apenas não, Logo Após foi utilizada a biblioteca OrdinalEnconder para tranformar essas bibliotecas em dados binarios, onde 1 é sim e 0 é não.
+
+Depois usei a função get.dummies para tranformar os dados cateoricos que restaram em colunas contando apenas 1 para sim e 0 para não.
+
+Após isso removi a coluna de ID do cliente para testar o modelo sem os dados do cliente, para ser treinado as cegas, depois separei os dados em X e Y
+e separei os dados na proporção 80/20 sendo 80% para treino e 20% para teste.
 
 ##
 ## Modelagem dos dados
+
+Para criação dos modelos treinei os seguintes algoritmos, todos tem um link para a documentação de suas bibliotecas.
+
+[LogisticRegression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html)
+
+[ExtraTreesClassifier](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.ExtraTreesClassifier.html)
+
+[RandomForestClassifier](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)
+
+[XGBClassifier](https://xgboost.readthedocs.io/en/latest/index.html#)
+
+[CatBoostClassifier](https://catboost.ai/docs/concepts/python-reference_catboostclassifier.html)
 
 
 ##
