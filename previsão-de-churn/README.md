@@ -145,6 +145,7 @@ No treinamento dos modelos utilizei as seguintes bibliotecas, todos tem um link 
 ##
 ## Validação Cruzada
 
+Após o treinamento dos modelos, escolhi os parametros de cada modelo para executar a [validação cruzada](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html) depois o mesmo me retornou os melhores parametros para que eu pudesse treinar os modelos mais otimizados.
 
 ##
 ## Otimização do modelo
