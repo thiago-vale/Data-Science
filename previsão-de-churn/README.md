@@ -129,6 +129,8 @@ e separei os dados na proporção 80/20 sendo 80% para treino e 20% para teste.
 ##
 ## Modelagem dos dados
 
+Separei os dados de treino e teste em 80% para treino e 20% para testes.
+
 No treinamento dos modelos utilizei as seguintes bibliotecas, todos tem um link para a documentação de suas bibliotecas.
 
 [LogisticRegression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html)
