@@ -152,15 +152,27 @@ Após o treinamento dos modelos, escolhi os parametros de cada modelo para execu
 ##
 ## Otimização do modelo
 
+Após fazer a validação cruzada retirei os melhores hiperparametros de de cada para modelo para poder assim Otimizar o modelo.
+
 
 ##
 ## Medição
+
+resultados dos modelos antes da validação cruzada
+
+
+
+resultados dos modelos após a validação cruzada
+
 
 
 ##
 ## Pontos de Melhoria
 
+precisariamos de mais dados para poder termos mais assertividade na tomada de decisão, commo por exemplo região (bairro) dos clientes, NPS, Numeros que vezes que acionaram a assistencia tecnica dentre outros dados que pdoeriam ajudar na melhora do modelo.
 
 ##
 ## Conclusão
+
+Com o modelo atual poderiamos criar um app que trouxesse quem possivelmente seriam os novos Churns e assim os times pudessem propor soluções para que os mesmos não evadissem, exemplo oferencendo descontos, entrando em contato para saber como está o serviço, e buscando fazer ações preventivas para evitar que esses clientes mudem de empresa.
 
