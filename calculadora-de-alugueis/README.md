@@ -14,7 +14,9 @@ Todos os daodos foram raspados da internet de anuncios publicos no site: https:/
 
 Os dados foram tratados de forma que ficassem organizados nas colunas apresentadas abaixo, depois foi feita uma Analise Exploratoria para saber se existiam outliers e como trata-los,
 
-## Após isso foi feita duas analises exploratorias, uma antes da limpeza dos outliers outra após para indetificar qual seria um impacto na medição no caso de esses não serem removidos,
+## Analise Exploratoria dos Dados
+
+Após isso foi feita duas analises exploratorias, uma antes da limpeza dos outliers outra após para indetificar qual seria um impacto na medição no caso de esses não serem removidos,
 
 Podemos ver no final da Analise Exploratoria dos Dados (atravez da matriz de correlação) que a mudança foi real e os outliers impactavam e muito para o treinamento.
 
