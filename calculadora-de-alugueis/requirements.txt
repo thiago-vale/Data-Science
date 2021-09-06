@@ -1,0 +1,12 @@
+pyaml==20.4.0
+scikit-learn==0.24.1
+pandas==1.2.3
+numpy==1.20.1 
+catboost==0.25.1
+shap==0.39.0
+selenium==3.141.0
+webdriver-manager==3.3.0
+tqdm==4.59.0
+seaborn==0.11.1
+matplotlib==3.3.4
+streamlit==0.81.1
