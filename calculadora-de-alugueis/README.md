@@ -8,7 +8,7 @@ Conheço algumas pessoas que trabalham na zona sul do rio de janeiro e moram um 
 
 ## Extração do dados.
 
-Todos os daodos foram raspados da internet de anuncios publicos no site: https://www.vivareal.com.br/ onde você pode encontrar apartamentos, casas e imveis comerciais em todos o Brasil.
+Todos os daodos foram raspados da internet de anuncios publicos no site: https://www.vivareal.com.br/ onde você pode encontrar apartamentos, casas e imoveis comerciais em todos o Brasil.
 
 ## Tratamento dos dados.
 
