@@ -33,7 +33,7 @@ quartos = st.slider(label="# quartos", min_value=0, max_value=5, value=2)
 banheiros = st.slider(label="# banheiros", min_value=0, max_value=5, value=2)
 garagens = st.slider(label="# garagens", min_value=0, max_value=5, value=2)
 
-preco = model.predict([area, condominio, quartos, banheiros, garagens, bairro])
+preco = model.predict([area, banheiros, quartos, condominio, garagens, bairro])
 
 if st.button(label="Calcular"):
     st.subheader(f"Preço estimado: R$ {preco:,.2f}")
