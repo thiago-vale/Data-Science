@@ -26,8 +26,11 @@ Podemos ver no final da Analise Exploratoria dos Dados (atravez da matriz de cor
 Foram treiandos os segintes modeelos:
 
 [LinearRegression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html)
+
 [KNeighborsRegressor](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsRegressor.html)
+
 [DecisionTreeRegressor](https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeRegressor.html)
+
 [CatBoostRegressor](https://catboost.ai/docs/concepts/python-reference_catboostregressor.html)
 
 ## [Apresentação dos resultados.](https://github.com/thiago-vale/Data-Science/blob/main/calculadora-de-alugueis/Escolhendo%20os%20Modelo.ipynb)
