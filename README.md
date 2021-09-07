@@ -10,3 +10,5 @@
 ## Bem vindos ao meu repositório de Data Sicence.
   
 [Modelo para previsão de evasores](https://github.com/thiago-vale/Data-Science/tree/main/previs%C3%A3o-de-churn)
+  
+[Calculadora de alugueis](https://github.com/thiago-vale/Data-Science/tree/main/calculadora-de-alugueis)
