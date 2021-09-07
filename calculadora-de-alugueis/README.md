@@ -25,6 +25,9 @@ Podemos ver no final da Analise Exploratoria dos Dados (atravez da matriz de cor
 
 ## [Apresentação dos resultados.](https://github.com/thiago-vale/Data-Science/blob/main/calculadora-de-alugueis/Escolhendo%20os%20Modelo.ipynb)
 
+Como podemos ver o melhor modelo em questão de performance no R2 score foi o CatboostRegressor, logo foi quem apresentou menos residuais.
+
 ## Melhorias Futuras
 
+O objtivo para o futuro e extrair mais bairros do Rio de Janeiro e ir adicionando ao treinamento dos modelos de forma automatica, para que se tenha uma ferramenta que possa atender a todos os publicos.
 
