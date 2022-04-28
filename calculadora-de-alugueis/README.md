@@ -43,5 +43,5 @@ Como podemos ver o melhor modelo em questão de performance no R2 score foi o Ca
 
 ## Melhorias Futuras
 
-O objtivo para o futuro e extrair mais bairros do Rio de Janeiro e ir adicionando ao treinamento dos modelos de forma automatica, para que se tenha uma ferramenta que possa atender a todos os publicos.
+O objetivo para o futuro e extrair mais bairros do Rio de Janeiro e ir adicionando ao treinamento dos modelos de forma automatica, para que se tenha uma ferramenta que possa atender a todos os publicos.
 
