@@ -1,4 +1,4 @@
-# [Calculadora de Alugueis]( https://calculadora-de-alugueis.herokuapp.com/)
+# [Calculadora de Alugueis]( https://calculadora-de-alugueis-9eaduxjqgwdphwafnbwgdc.streamlit.app/ )
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/77752211/132268695-4a4991c0-e540-441b-9178-773051338288.jpg" height="300" width="1000px" />
