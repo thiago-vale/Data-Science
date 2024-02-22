@@ -4,6 +4,8 @@
 <img src="https://user-images.githubusercontent.com/77752211/132268695-4a4991c0-e540-441b-9178-773051338288.jpg" height="300" width="1000px" />
 </div>
 
+https://calculadora-de-alugueis-9eaduxjqgwdphwafnbwgdc.streamlit.app/
+
 ## Problema de negocio.
 
 Conheço algumas pessoas que trabalham na zona sul do rio de janeiro e moram um pouco longe de seus trabalhos em sua maioria, vejo que eles estão sempre reclamando de morar longe e a cada dia vejo mais e mais apartamentos sendo alugados proximo do meu trabalho, toda vez que eu paro para pesquisar vejo que a maioria está o mesmo preço do que em outras áreas do Rio de Janeiro, por isso resolvi fazer este projeto não só para ajudar qualquer corretora que ainda não tenha a aplicação como tambem pessoas que se interessem em saber se estão pagando caro ou barato por um apartamento na zona sul do Rio de Janeiro, e assim podendo aumentar o numero de apartamento alugados por ali.
